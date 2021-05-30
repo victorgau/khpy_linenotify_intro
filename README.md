@@ -2,7 +2,8 @@
 
 ### 課程內容：
 
-* 簡介
+* Line Notify簡介
+* 如何取得Token？
 * 使用 Line Notify 傳送訊息
 * 使用 Line Notify 傳送貼紙
 * 使用 Line Notify 傳送圖片
