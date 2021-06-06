@@ -31,5 +31,5 @@
 
 ### 相關連結：
 
-* [Sticker List](https://www.arduinoall.net/arduino-tutor/sticker_list.pdf)
+* [Sticker List](misc/sticker_list.pdf)
 * [schedule](https://pypi.org/project/schedule/)
