@@ -12,7 +12,7 @@ def Notify(token, msg="Hello", stickerPackageId=None, stickerId=None, img=None):
     r = requests.post("https://notify-api.line.me/api/notify", headers=headers, params=payload, files=files)
     if files:
         files['imageFile'].close()
-    return r.status_code
+    return r
 
 
 if __name__=="__main__":
