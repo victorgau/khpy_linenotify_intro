@@ -2,9 +2,13 @@
 
 ## 關於唯客學院：
 
-* [唯客學院網址](http://www.victorgau.com)
+* [唯客學院網址](http://www.vcdemy.com)
 * [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
 * [唯客學院線上教學](https://khpy.teachable.com)
+
+## 教學影片
+
+* [Line Notify 使用簡介](https://www.youtube.com/watch?v=dch8UHIgNAI&list=PLj4JWjo5dOC4ipFy5ODaMXsMYcBpZOp45)
 
 ## 課程內容：
 
