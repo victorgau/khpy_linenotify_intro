@@ -8,7 +8,7 @@
 
 ## 教學影片
 
-* [Line Notify 使用簡介](https://www.youtube.com/watch?v=dch8UHIgNAI&list=PLj4JWjo5dOC4ipFy5ODaMXsMYcBpZOp45)
+* [Line Notify 使用簡介](https://www.youtube.com/playlist?list=PLj4JWjo5dOC4ipFy5ODaMXsMYcBpZOp45)
 
 ## 課程內容：
 
